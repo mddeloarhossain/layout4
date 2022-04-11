@@ -1,0 +1,91 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #ddd;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+.bg_color{
+	background-color: gray;
+}
+p{
+	margin: 0;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+.header{
+	overflow: hidden;
+	margin: 20px 0;
+	padding: 20px 20px;
+}
+.logo{
+	float: left;
+}
+.navigation{
+	float: right;
+}
+.wrapper{
+	overflow: hidden;
+	margin: 20px 0;
+}
+.row1{
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.row2{
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.row3{
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.row4{
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.content{
+	width: 24.25%;
+	height: 200px;
+	float: left;
+	margin-right: 1%;
+}
+.content1{
+	width: 24.25%;
+	height: 200px;
+	float: left;
+}
+.main_content{
+	overflow: hidden;
+	margin: 20px 0;
+}
+.sidebar1{
+	width: 32%;
+	height: 200px;
+	float: left;
+	line-height: 200px;
+	margin-right: 2%;
+}
+.sidebar2{
+	width: 32%;
+	height: 200px;
+	float: left;
+	line-height: 200px;
+	margin-right: 2%;
+}
+.sidebar3{
+	width: 32%;
+	height: 200px;
+	float: left;
+	line-height: 200px;
+}
+.footer{
+	margin-bottom: 20px;
+	height: 50px;
+	line-height: 50px;
+}
